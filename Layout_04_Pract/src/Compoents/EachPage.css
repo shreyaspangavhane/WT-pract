@@ -1,0 +1,39 @@
+.Heading {
+    background-color: #282c34;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.sidebar {
+    width: 250px;
+    background-color: #4a4e69;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.sidebar button {
+    background-color: #282c34;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    margin-left: auto 30px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.head {
+    font-size: 30px;
+    text-align: center;
+}
+
+.para {
+    font-size: 17px;
+    color: black;
+}
